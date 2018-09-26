@@ -1,0 +1,15 @@
+{
+  "name": "mp3wav-cli",
+  "version": "0.0.4",
+  "description": "Play wav and mp3 files from command line. (Windows)",
+  "main": "index.js",
+  "bin": {
+    "mp3wav": "index.js"
+  },
+  "keywords": [],
+  "author": "jochemstoel",
+  "license": "MIT",
+  "dependencies": {
+    "mp3wav": "0.0.2"
+  }
+}
